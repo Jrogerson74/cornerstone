@@ -1,0 +1,18 @@
+.header {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Permanent Marker', cursive;
+    height: 200px;
+    background-color: #8B0000;
+    
+}
+
+.navbar {
+    height: 100px;
+    background-color: #778899;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,0.2);
+    // font-family: 'Gotu', sans-serif;
+}
